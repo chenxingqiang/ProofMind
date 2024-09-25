@@ -6,10 +6,12 @@
 Automated Theorem Proving, Deep Learning, Mathematical Reasoning, Symbolic AI 核心
 
 ## 创新点:
+
 1. 将大型语言模型与符号推理技术相结合，增强数学定理证明能力
 2. 开发能够生成和验证数学证明的 AI 系统
 3. 在代数、拓扑学和数论等多个数学领域展现出优越的定理证明能力
-4. 
+
+
 核心参考文献: Advancing mathematics by guiding human intuition with AI
 
 
