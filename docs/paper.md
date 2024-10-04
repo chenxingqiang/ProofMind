@@ -2,18 +2,17 @@
 
 摘要: This research proposes a novel deep learning framework for automated theorem proving in mathemat- ics. By combining large language models with symbolic reasoning techniques, we develop an AI system capable of generating and verifying mathematical proofs. Our approach demonstrates significant improve- ments in proving complex theorems across various mathematical domains, including algebra, topology, and number theory. We evaluate our system on benchmark datasets and show its potential to assist math- ematicians in exploring new mathematical conjectures.
 
-## 关键词:
+## 关键词
+
 Automated Theorem Proving, Deep Learning, Mathematical Reasoning, Symbolic AI 核心
 
-## 创新点:
+## 创新点
 
 1. 将大型语言模型与符号推理技术相结合，增强数学定理证明能力
 2. 开发能够生成和验证数学证明的 AI 系统
 3. 在代数、拓扑学和数论等多个数学领域展现出优越的定理证明能力
 
-
 核心参考文献: Advancing mathematics by guiding human intuition with AI
-
 
 Here is a detailed writing outline for your research paper on "AI-Driven Mathematical Reasoning for Automated Theorem Proving."
 
@@ -105,7 +104,6 @@ Here is a detailed writing outline for your research paper on "AI-Driven Mathema
 
 This outline provides a structured approach to writing the paper while addressing all the key components of the research.
 
-
 ### Abstract
 
 In this paper, we propose a novel AI-driven framework for automated theorem proving, integrating large language models (LLMs) with symbolic reasoning techniques to enhance mathematical reasoning capabilities. Our approach significantly advances the field by developing an AI system capable of both generating and verifying mathematical proofs. By leveraging the strengths of LLMs for understanding mathematical language and symbolic reasoning for rigorous proof verification, we demonstrate improvements in proving complex theorems across various mathematical domains, including algebra, topology, and number theory. We evaluate our system on benchmark datasets and showcase its potential in assisting mathematicians in exploring new mathematical conjectures.
@@ -170,7 +168,6 @@ By following this structure, we aim to provide a comprehensive exploration of ho
 10. Reference for state-of-the-art ATP comparison
 11. Reference for potential impact on mathematical research
 
-
 ## 2. Related Work
 
 The field of automated theorem proving (ATP) has been a central focus in artificial intelligence and mathematical logic for several decades. While traditional ATP systems have achieved significant success in formal proof verification, they often fall short of the flexibility and creativity required for complex, exploratory mathematical tasks. Meanwhile, recent advances in AI and deep learning have opened new possibilities for integrating machine learning models with formal logic systems. In this section, we review the progress made in ATP, deep learning applications for mathematical reasoning, and symbolic AI methods, identifying the key gaps that our research aims to address.
@@ -231,7 +228,6 @@ By addressing these gaps, this paper contributes to the development of a more ro
 6. Reference for limitations of current LLMs in formal proof generation.
 7. Reference for hybrid neural-symbolic approaches in theorem proving.
 8. Reference for gaps in evaluation frameworks for ATP systems.
-
 
 ## 3. Proposed Framework
 
@@ -778,4 +774,3 @@ This completes the appendices section, providing supplementary materials and det
 4. **Reference for the role of AI in mathematical discovery.**
 5. **Reference for ethical considerations in AI-driven theorem proving.**
 6. **Reference for hybrid LLM-symbolic reasoning approaches in theorem proving.**
-
