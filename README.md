@@ -1,6 +1,6 @@
 # ProofMind
 
-![logo](docs/logo.png)
+![logo](docs/logo2.png)
 
 ProofMind is a deep learning-based automated theorem proof generator that analyzes input theorem features to generate corresponding proof steps. The project also integrates a symbolic reasoning module to support theorem verification and generation across various mathematical domains.
 
