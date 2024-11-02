@@ -126,7 +126,7 @@ class ProofGenerator(nn.Module):
         self.device = torch.device(device)
         self.to(self.device)
         return self
-    def train_model(self, num_epochs: int = 50, device: str = 'mps'):
+    def train_model(self, num_epochs: int = 50, device: str ='cpu'):
         """训练模型"""
         if self.optimizer is None:
             raise ValueError("Must call configure_training before training!")
@@ -209,7 +209,7 @@ class ProofGenerator(nn.Module):
 
 def create_proof_generator(train_data: Tuple[np.ndarray, np.ndarray],
                            val_data: Tuple[np.ndarray, np.ndarray],
-                           device: str = 'mps') -> ProofGenerator:
+                           device: str ='cpu') -> ProofGenerator:
     input_dim = train_data[0].shape[1]
     model = ProofGenerator(input_dim=input_dim).to(device)
     model.configure_training(
