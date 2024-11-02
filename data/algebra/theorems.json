@@ -1,0 +1,1704 @@
+{
+  "theorems": [
+    {
+      "id": "algebra_0",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.6089547653248896,
+      "proof": "This is a sample proof for theorem 0 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_1",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.8411021261774136,
+      "proof": "This is a sample proof for theorem 1 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_2",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.13329837018874424,
+      "proof": "This is a sample proof for theorem 2 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_3",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.7031759321269422,
+      "proof": "This is a sample proof for theorem 3 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_4",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.35825187793108737,
+      "proof": "This is a sample proof for theorem 4 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_5",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.5995566083852651,
+      "proof": "This is a sample proof for theorem 5 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_6",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.36333193184765755,
+      "proof": "This is a sample proof for theorem 6 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_7",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.04287219119343122,
+      "proof": "This is a sample proof for theorem 7 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_8",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.043947330144133434,
+      "proof": "This is a sample proof for theorem 8 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_9",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.5986739831231722,
+      "proof": "This is a sample proof for theorem 9 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_10",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.2764918671150197,
+      "proof": "This is a sample proof for theorem 10 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_11",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.2835777009420877,
+      "proof": "This is a sample proof for theorem 11 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_12",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.13945892783545577,
+      "proof": "This is a sample proof for theorem 12 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_13",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.6402708587807396,
+      "proof": "This is a sample proof for theorem 13 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_14",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.13301004087357104,
+      "proof": "This is a sample proof for theorem 14 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_15",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.671692686040531,
+      "proof": "This is a sample proof for theorem 15 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_16",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.030578710861819958,
+      "proof": "This is a sample proof for theorem 16 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_17",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.5200462055061575,
+      "proof": "This is a sample proof for theorem 17 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_18",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.5790534887385722,
+      "proof": "This is a sample proof for theorem 18 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_19",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.41378086208188636,
+      "proof": "This is a sample proof for theorem 19 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_20",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.0831868695519481,
+      "proof": "This is a sample proof for theorem 20 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_21",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.5842811640446873,
+      "proof": "This is a sample proof for theorem 21 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_22",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.9838436394704434,
+      "proof": "This is a sample proof for theorem 22 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_23",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.18799079701123234,
+      "proof": "This is a sample proof for theorem 23 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_24",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.17237444904069277,
+      "proof": "This is a sample proof for theorem 24 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_25",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.5048099065429716,
+      "proof": "This is a sample proof for theorem 25 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_26",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.12947377610325195,
+      "proof": "This is a sample proof for theorem 26 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_27",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.2277522244669511,
+      "proof": "This is a sample proof for theorem 27 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_28",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.9226952073918486,
+      "proof": "This is a sample proof for theorem 28 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_29",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.4488999782144234,
+      "proof": "This is a sample proof for theorem 29 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_30",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.09917247798385387,
+      "proof": "This is a sample proof for theorem 30 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_31",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.1743352356862048,
+      "proof": "This is a sample proof for theorem 31 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_32",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.3672894917211963,
+      "proof": "This is a sample proof for theorem 32 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_33",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.18801813960078584,
+      "proof": "This is a sample proof for theorem 33 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_34",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.5393062947989432,
+      "proof": "This is a sample proof for theorem 34 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_35",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.7659594812019435,
+      "proof": "This is a sample proof for theorem 35 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_36",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.14058282399328637,
+      "proof": "This is a sample proof for theorem 36 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_37",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.3021191611643794,
+      "proof": "This is a sample proof for theorem 37 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_38",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.2911191654102041,
+      "proof": "This is a sample proof for theorem 38 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_39",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.23553834063007972,
+      "proof": "This is a sample proof for theorem 39 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_40",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.39505825794788785,
+      "proof": "This is a sample proof for theorem 40 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_41",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.051757665137752706,
+      "proof": "This is a sample proof for theorem 41 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_42",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.6815079141738866,
+      "proof": "This is a sample proof for theorem 42 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_43",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.16511022604607195,
+      "proof": "This is a sample proof for theorem 43 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_44",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.4169305923549351,
+      "proof": "This is a sample proof for theorem 44 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_45",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.9645698531444432,
+      "proof": "This is a sample proof for theorem 45 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_46",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.6470479073235549,
+      "proof": "This is a sample proof for theorem 46 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_47",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.24565209134699484,
+      "proof": "This is a sample proof for theorem 47 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_48",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.15362826101017313,
+      "proof": "This is a sample proof for theorem 48 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_49",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.40745094691086825,
+      "proof": "This is a sample proof for theorem 49 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_50",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.6071002419504237,
+      "proof": "This is a sample proof for theorem 50 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_51",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.8680188112456518,
+      "proof": "This is a sample proof for theorem 51 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_52",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.33733612035158544,
+      "proof": "This is a sample proof for theorem 52 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_53",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.6517232838110864,
+      "proof": "This is a sample proof for theorem 53 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_54",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.04651289922380264,
+      "proof": "This is a sample proof for theorem 54 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_55",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.4609690866246402,
+      "proof": "This is a sample proof for theorem 55 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_56",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.7540790510439417,
+      "proof": "This is a sample proof for theorem 56 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_57",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.876625525178546,
+      "proof": "This is a sample proof for theorem 57 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_58",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.7206394302918323,
+      "proof": "This is a sample proof for theorem 58 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_59",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.20133051895543752,
+      "proof": "This is a sample proof for theorem 59 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_60",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.58205942384301,
+      "proof": "This is a sample proof for theorem 60 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_61",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.27966174397481824,
+      "proof": "This is a sample proof for theorem 61 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_62",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.13325600980168895,
+      "proof": "This is a sample proof for theorem 62 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_63",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.03342570438101833,
+      "proof": "This is a sample proof for theorem 63 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_64",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.2938866684286461,
+      "proof": "This is a sample proof for theorem 64 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_65",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.07710334189267354,
+      "proof": "This is a sample proof for theorem 65 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_66",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.9565098683780872,
+      "proof": "This is a sample proof for theorem 66 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_67",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.41837625717226334,
+      "proof": "This is a sample proof for theorem 67 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_68",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.19904699026815464,
+      "proof": "This is a sample proof for theorem 68 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_69",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.006937107712077117,
+      "proof": "This is a sample proof for theorem 69 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_70",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.6829064200408116,
+      "proof": "This is a sample proof for theorem 70 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_71",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.8648291892356782,
+      "proof": "This is a sample proof for theorem 71 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_72",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.3110774403254185,
+      "proof": "This is a sample proof for theorem 72 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_73",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.24561520695650707,
+      "proof": "This is a sample proof for theorem 73 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_74",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.08125042304107655,
+      "proof": "This is a sample proof for theorem 74 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_75",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.4497109213318319,
+      "proof": "This is a sample proof for theorem 75 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_76",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.6332029534791496,
+      "proof": "This is a sample proof for theorem 76 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_77",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.0005065383572714355,
+      "proof": "This is a sample proof for theorem 77 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_78",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.5061691350743778,
+      "proof": "This is a sample proof for theorem 78 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_79",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.08121806039954671,
+      "proof": "This is a sample proof for theorem 79 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_80",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.2983794056380922,
+      "proof": "This is a sample proof for theorem 80 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_81",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.5058367884291517,
+      "proof": "This is a sample proof for theorem 81 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_82",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.7504446352876639,
+      "proof": "This is a sample proof for theorem 82 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_83",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.8002999125090322,
+      "proof": "This is a sample proof for theorem 83 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_84",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.5904525990929539,
+      "proof": "This is a sample proof for theorem 84 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_85",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.5632810460036088,
+      "proof": "This is a sample proof for theorem 85 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_86",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.8163822974565709,
+      "proof": "This is a sample proof for theorem 86 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_87",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.31284705881178265,
+      "proof": "This is a sample proof for theorem 87 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_88",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.7895845492737237,
+      "proof": "This is a sample proof for theorem 88 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_89",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "complexity_score": 0.03923238478302482,
+      "proof": "This is a sample proof for theorem 89 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_90",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.13183210907618137,
+      "proof": "This is a sample proof for theorem 90 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_91",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.1322874478399192,
+      "proof": "This is a sample proof for theorem 91 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_92",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.17197663884831016,
+      "proof": "This is a sample proof for theorem 92 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_93",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.9248205232367442,
+      "proof": "This is a sample proof for theorem 93 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_94",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.1925068667661355,
+      "proof": "This is a sample proof for theorem 94 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_95",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.15403995363204992,
+      "proof": "This is a sample proof for theorem 95 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_96",
+      "statement": "The sum of squares formula: (a + b)^2 = a^2 + 2ab + b^2",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.9152108734410577,
+      "proof": "This is a sample proof for theorem 96 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_97",
+      "statement": "For matrices A and B, (AB)^T = B^T A^T",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.2257115378028307,
+      "proof": "This is a sample proof for theorem 97 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_98",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "complexity_score": 0.7951425846498219,
+      "proof": "This is a sample proof for theorem 98 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "algebra_99",
+      "statement": "For all elements x in Ring R, if x^2 = 0 then x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "complexity_score": 0.15225567155126296,
+      "proof": "This is a sample proof for theorem 99 in algebra.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    }
+  ]
+}

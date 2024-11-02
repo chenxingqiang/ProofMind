@@ -1,0 +1,704 @@
+{
+  "theorems": [
+    {
+      "id": "algebra_0",
+      "statement": "For any y in ring R, y^2 = 0 implies y = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 0 in algebra..."
+    },
+    {
+      "id": "algebra_1",
+      "statement": "The determinant of a 7x7 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 1 in algebra..."
+    },
+    {
+      "id": "algebra_2",
+      "statement": "The determinant of a 9x9 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 2 in algebra..."
+    },
+    {
+      "id": "algebra_3",
+      "statement": "The sum of the squares of z and x equals (z + x)(z - x)",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 3 in algebra..."
+    },
+    {
+      "id": "algebra_4",
+      "statement": "The determinant of a 4x4 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 4 in algebra..."
+    },
+    {
+      "id": "algebra_5",
+      "statement": "The determinant of a 7x7 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 5 in algebra..."
+    },
+    {
+      "id": "algebra_6",
+      "statement": "The determinant of a 5x5 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 6 in algebra..."
+    },
+    {
+      "id": "algebra_7",
+      "statement": "The sum of the squares of y and x equals (y + x)(y - x)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 7 in algebra..."
+    },
+    {
+      "id": "algebra_8",
+      "statement": "The determinant of a 6x6 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 8 in algebra..."
+    },
+    {
+      "id": "algebra_9",
+      "statement": "For any y in ring R, y^2 = 0 implies y = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 9 in algebra..."
+    },
+    {
+      "id": "algebra_10",
+      "statement": "The determinant of a 4x4 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 10 in algebra..."
+    },
+    {
+      "id": "algebra_11",
+      "statement": "The sum of the squares of z and z equals (z + z)(z - z)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 11 in algebra..."
+    },
+    {
+      "id": "algebra_12",
+      "statement": "The determinant of a 2x2 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 12 in algebra..."
+    },
+    {
+      "id": "algebra_13",
+      "statement": "The determinant of a 8x8 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 13 in algebra..."
+    },
+    {
+      "id": "algebra_14",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 14 in algebra..."
+    },
+    {
+      "id": "algebra_15",
+      "statement": "The sum of the squares of x and x equals (x + x)(x - x)",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 15 in algebra..."
+    },
+    {
+      "id": "algebra_16",
+      "statement": "The sum of the squares of x and x equals (x + x)(x - x)",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 16 in algebra..."
+    },
+    {
+      "id": "algebra_17",
+      "statement": "The determinant of a 6x6 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 17 in algebra..."
+    },
+    {
+      "id": "algebra_18",
+      "statement": "For any y in ring R, y^2 = 0 implies y = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 18 in algebra..."
+    },
+    {
+      "id": "algebra_19",
+      "statement": "The sum of the squares of z and y equals (z + y)(z - y)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 19 in algebra..."
+    },
+    {
+      "id": "algebra_20",
+      "statement": "For any y in ring R, y^2 = 0 implies y = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 20 in algebra..."
+    },
+    {
+      "id": "algebra_21",
+      "statement": "For any z in ring R, z^2 = 0 implies z = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 21 in algebra..."
+    },
+    {
+      "id": "algebra_22",
+      "statement": "The sum of the squares of x and x equals (x + x)(x - x)",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 22 in algebra..."
+    },
+    {
+      "id": "algebra_23",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 23 in algebra..."
+    },
+    {
+      "id": "algebra_24",
+      "statement": "The determinant of a 3x3 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 24 in algebra..."
+    },
+    {
+      "id": "algebra_25",
+      "statement": "The determinant of a 5x5 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 25 in algebra..."
+    },
+    {
+      "id": "algebra_26",
+      "statement": "The determinant of a 5x5 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 26 in algebra..."
+    },
+    {
+      "id": "algebra_27",
+      "statement": "The determinant of a 5x5 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 27 in algebra..."
+    },
+    {
+      "id": "algebra_28",
+      "statement": "The determinant of a 8x8 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 28 in algebra..."
+    },
+    {
+      "id": "algebra_29",
+      "statement": "For any y in ring R, y^2 = 0 implies y = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 29 in algebra..."
+    },
+    {
+      "id": "algebra_30",
+      "statement": "The determinant of a 9x9 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 30 in algebra..."
+    },
+    {
+      "id": "algebra_31",
+      "statement": "For any y in ring R, y^2 = 0 implies y = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 31 in algebra..."
+    },
+    {
+      "id": "algebra_32",
+      "statement": "For any y in ring R, y^2 = 0 implies y = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 32 in algebra..."
+    },
+    {
+      "id": "algebra_33",
+      "statement": "The determinant of a 9x9 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 33 in algebra..."
+    },
+    {
+      "id": "algebra_34",
+      "statement": "The sum of the squares of z and x equals (z + x)(z - x)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 34 in algebra..."
+    },
+    {
+      "id": "algebra_35",
+      "statement": "The sum of the squares of x and x equals (x + x)(x - x)",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 35 in algebra..."
+    },
+    {
+      "id": "algebra_36",
+      "statement": "For any z in ring R, z^2 = 0 implies z = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 36 in algebra..."
+    },
+    {
+      "id": "algebra_37",
+      "statement": "The sum of the squares of y and y equals (y + y)(y - y)",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 37 in algebra..."
+    },
+    {
+      "id": "algebra_38",
+      "statement": "The sum of the squares of y and z equals (y + z)(y - z)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 38 in algebra..."
+    },
+    {
+      "id": "algebra_39",
+      "statement": "The sum of the squares of x and z equals (x + z)(x - z)",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 39 in algebra..."
+    },
+    {
+      "id": "algebra_40",
+      "statement": "The sum of the squares of y and y equals (y + y)(y - y)",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 40 in algebra..."
+    },
+    {
+      "id": "algebra_41",
+      "statement": "The determinant of a 4x4 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 41 in algebra..."
+    },
+    {
+      "id": "algebra_42",
+      "statement": "The determinant of a 9x9 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 42 in algebra..."
+    },
+    {
+      "id": "algebra_43",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 43 in algebra..."
+    },
+    {
+      "id": "algebra_44",
+      "statement": "The sum of the squares of z and x equals (z + x)(z - x)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 44 in algebra..."
+    },
+    {
+      "id": "algebra_45",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 45 in algebra..."
+    },
+    {
+      "id": "algebra_46",
+      "statement": "For any z in ring R, z^2 = 0 implies z = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 46 in algebra..."
+    },
+    {
+      "id": "algebra_47",
+      "statement": "The sum of the squares of x and x equals (x + x)(x - x)",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 47 in algebra..."
+    },
+    {
+      "id": "algebra_48",
+      "statement": "For any z in ring R, z^2 = 0 implies z = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 48 in algebra..."
+    },
+    {
+      "id": "algebra_49",
+      "statement": "The sum of the squares of y and x equals (y + x)(y - x)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 49 in algebra..."
+    },
+    {
+      "id": "algebra_50",
+      "statement": "The sum of the squares of y and z equals (y + z)(y - z)",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 50 in algebra..."
+    },
+    {
+      "id": "algebra_51",
+      "statement": "The sum of the squares of x and y equals (x + y)(x - y)",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 51 in algebra..."
+    },
+    {
+      "id": "algebra_52",
+      "statement": "For any z in ring R, z^2 = 0 implies z = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 52 in algebra..."
+    },
+    {
+      "id": "algebra_53",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 53 in algebra..."
+    },
+    {
+      "id": "algebra_54",
+      "statement": "The determinant of a 5x5 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 54 in algebra..."
+    },
+    {
+      "id": "algebra_55",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 55 in algebra..."
+    },
+    {
+      "id": "algebra_56",
+      "statement": "The sum of the squares of y and z equals (y + z)(y - z)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 56 in algebra..."
+    },
+    {
+      "id": "algebra_57",
+      "statement": "The determinant of a 4x4 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 57 in algebra..."
+    },
+    {
+      "id": "algebra_58",
+      "statement": "The determinant of a 3x3 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 58 in algebra..."
+    },
+    {
+      "id": "algebra_59",
+      "statement": "The determinant of a 7x7 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 59 in algebra..."
+    },
+    {
+      "id": "algebra_60",
+      "statement": "For any z in ring R, z^2 = 0 implies z = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 60 in algebra..."
+    },
+    {
+      "id": "algebra_61",
+      "statement": "The determinant of a 9x9 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 61 in algebra..."
+    },
+    {
+      "id": "algebra_62",
+      "statement": "The sum of the squares of z and x equals (z + x)(z - x)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 62 in algebra..."
+    },
+    {
+      "id": "algebra_63",
+      "statement": "The determinant of a 9x9 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 63 in algebra..."
+    },
+    {
+      "id": "algebra_64",
+      "statement": "The determinant of a 7x7 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 64 in algebra..."
+    },
+    {
+      "id": "algebra_65",
+      "statement": "For any y in ring R, y^2 = 0 implies y = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 65 in algebra..."
+    },
+    {
+      "id": "algebra_66",
+      "statement": "The determinant of a 7x7 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 66 in algebra..."
+    },
+    {
+      "id": "algebra_67",
+      "statement": "The sum of the squares of z and z equals (z + z)(z - z)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 67 in algebra..."
+    },
+    {
+      "id": "algebra_68",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 68 in algebra..."
+    },
+    {
+      "id": "algebra_69",
+      "statement": "For any y in ring R, y^2 = 0 implies y = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 69 in algebra..."
+    },
+    {
+      "id": "algebra_70",
+      "statement": "The determinant of a 4x4 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 70 in algebra..."
+    },
+    {
+      "id": "algebra_71",
+      "statement": "The sum of the squares of x and y equals (x + y)(x - y)",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 71 in algebra..."
+    },
+    {
+      "id": "algebra_72",
+      "statement": "The sum of the squares of z and x equals (z + x)(z - x)",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 72 in algebra..."
+    },
+    {
+      "id": "algebra_73",
+      "statement": "The sum of the squares of x and x equals (x + x)(x - x)",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 73 in algebra..."
+    },
+    {
+      "id": "algebra_74",
+      "statement": "The sum of the squares of z and z equals (z + z)(z - z)",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 74 in algebra..."
+    },
+    {
+      "id": "algebra_75",
+      "statement": "The sum of the squares of z and y equals (z + y)(z - y)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 75 in algebra..."
+    },
+    {
+      "id": "algebra_76",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 76 in algebra..."
+    },
+    {
+      "id": "algebra_77",
+      "statement": "For any z in ring R, z^2 = 0 implies z = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 77 in algebra..."
+    },
+    {
+      "id": "algebra_78",
+      "statement": "The determinant of a 9x9 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 78 in algebra..."
+    },
+    {
+      "id": "algebra_79",
+      "statement": "The determinant of a 3x3 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 79 in algebra..."
+    },
+    {
+      "id": "algebra_80",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 80 in algebra..."
+    },
+    {
+      "id": "algebra_81",
+      "statement": "The determinant of a 8x8 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 81 in algebra..."
+    },
+    {
+      "id": "algebra_82",
+      "statement": "The determinant of a 2x2 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 82 in algebra..."
+    },
+    {
+      "id": "algebra_83",
+      "statement": "The sum of the squares of y and z equals (y + z)(y - z)",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 83 in algebra..."
+    },
+    {
+      "id": "algebra_84",
+      "statement": "The determinant of a 8x8 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 84 in algebra..."
+    },
+    {
+      "id": "algebra_85",
+      "statement": "The sum of the squares of x and y equals (x + y)(x - y)",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 85 in algebra..."
+    },
+    {
+      "id": "algebra_86",
+      "statement": "For any z in ring R, z^2 = 0 implies z = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 86 in algebra..."
+    },
+    {
+      "id": "algebra_87",
+      "statement": "The sum of the squares of y and x equals (y + x)(y - x)",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 87 in algebra..."
+    },
+    {
+      "id": "algebra_88",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 88 in algebra..."
+    },
+    {
+      "id": "algebra_89",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 89 in algebra..."
+    },
+    {
+      "id": "algebra_90",
+      "statement": "The sum of the squares of y and y equals (y + y)(y - y)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 90 in algebra..."
+    },
+    {
+      "id": "algebra_91",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 91 in algebra..."
+    },
+    {
+      "id": "algebra_92",
+      "statement": "The sum of the squares of x and z equals (x + z)(x - z)",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 92 in algebra..."
+    },
+    {
+      "id": "algebra_93",
+      "statement": "The determinant of a 2x2 matrix is invariant under transpose",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 93 in algebra..."
+    },
+    {
+      "id": "algebra_94",
+      "statement": "For any z in ring R, z^2 = 0 implies z = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 94 in algebra..."
+    },
+    {
+      "id": "algebra_95",
+      "statement": "For any x in ring R, x^2 = 0 implies x = 0",
+      "domain": "algebra",
+      "difficulty": "hard",
+      "proof": "This is a sample proof for theorem 95 in algebra..."
+    },
+    {
+      "id": "algebra_96",
+      "statement": "The sum of the squares of y and y equals (y + y)(y - y)",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 96 in algebra..."
+    },
+    {
+      "id": "algebra_97",
+      "statement": "For any y in ring R, y^2 = 0 implies y = 0",
+      "domain": "algebra",
+      "difficulty": "medium",
+      "proof": "This is a sample proof for theorem 97 in algebra..."
+    },
+    {
+      "id": "algebra_98",
+      "statement": "For any y in ring R, y^2 = 0 implies y = 0",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 98 in algebra..."
+    },
+    {
+      "id": "algebra_99",
+      "statement": "The sum of the squares of z and z equals (z + z)(z - z)",
+      "domain": "algebra",
+      "difficulty": "easy",
+      "proof": "This is a sample proof for theorem 99 in algebra..."
+    }
+  ]
+}

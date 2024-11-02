@@ -1,0 +1,1704 @@
+{
+  "theorems": [
+    {
+      "id": "topology_0",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.13409026957875914,
+      "proof": "This is a sample proof for theorem 0 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_1",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.7683607760166324,
+      "proof": "This is a sample proof for theorem 1 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_2",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.36676042980502144,
+      "proof": "This is a sample proof for theorem 2 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_3",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.7420529090191152,
+      "proof": "This is a sample proof for theorem 3 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_4",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.23010024885434177,
+      "proof": "This is a sample proof for theorem 4 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_5",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.8739515459379785,
+      "proof": "This is a sample proof for theorem 5 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_6",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.8146317012294337,
+      "proof": "This is a sample proof for theorem 6 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_7",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.3056776408325417,
+      "proof": "This is a sample proof for theorem 7 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_8",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.19916236584976976,
+      "proof": "This is a sample proof for theorem 8 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_9",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.5937116055413548,
+      "proof": "This is a sample proof for theorem 9 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_10",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.7445394872327353,
+      "proof": "This is a sample proof for theorem 10 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_11",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.8562856165503266,
+      "proof": "This is a sample proof for theorem 11 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_12",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.2870701565625553,
+      "proof": "This is a sample proof for theorem 12 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_13",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.27250849830876456,
+      "proof": "This is a sample proof for theorem 13 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_14",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.38127414635071344,
+      "proof": "This is a sample proof for theorem 14 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_15",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.11401217219790216,
+      "proof": "This is a sample proof for theorem 15 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_16",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.8628154951754772,
+      "proof": "This is a sample proof for theorem 16 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_17",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.5200929678824423,
+      "proof": "This is a sample proof for theorem 17 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_18",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.38132336994775073,
+      "proof": "This is a sample proof for theorem 18 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_19",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.028351080443771548,
+      "proof": "This is a sample proof for theorem 19 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_20",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.6991904569556021,
+      "proof": "This is a sample proof for theorem 20 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_21",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.6189842261061761,
+      "proof": "This is a sample proof for theorem 21 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_22",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.08905606778314423,
+      "proof": "This is a sample proof for theorem 22 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_23",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.7292144318633698,
+      "proof": "This is a sample proof for theorem 23 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_24",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.49955263903652214,
+      "proof": "This is a sample proof for theorem 24 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_25",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.5286409585431722,
+      "proof": "This is a sample proof for theorem 25 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_26",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.05416758376243924,
+      "proof": "This is a sample proof for theorem 26 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_27",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.7412841818661033,
+      "proof": "This is a sample proof for theorem 27 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_28",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.314069418903677,
+      "proof": "This is a sample proof for theorem 28 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_29",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.9069791038508874,
+      "proof": "This is a sample proof for theorem 29 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_30",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.9731380138742276,
+      "proof": "This is a sample proof for theorem 30 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_31",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.8298920508193758,
+      "proof": "This is a sample proof for theorem 31 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_32",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.9823307362780168,
+      "proof": "This is a sample proof for theorem 32 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_33",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.9642430762267117,
+      "proof": "This is a sample proof for theorem 33 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_34",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.2409967879514241,
+      "proof": "This is a sample proof for theorem 34 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_35",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.23475302108774465,
+      "proof": "This is a sample proof for theorem 35 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_36",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.30580036692344637,
+      "proof": "This is a sample proof for theorem 36 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_37",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.5958675817926482,
+      "proof": "This is a sample proof for theorem 37 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_38",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.8848526961939206,
+      "proof": "This is a sample proof for theorem 38 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_39",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.7246297611068635,
+      "proof": "This is a sample proof for theorem 39 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_40",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.9835033834508078,
+      "proof": "This is a sample proof for theorem 40 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_41",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.39503273344759626,
+      "proof": "This is a sample proof for theorem 41 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_42",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.35623668709959166,
+      "proof": "This is a sample proof for theorem 42 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_43",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.4314359902462035,
+      "proof": "This is a sample proof for theorem 43 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_44",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.8888953700066804,
+      "proof": "This is a sample proof for theorem 44 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_45",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.22910710677380575,
+      "proof": "This is a sample proof for theorem 45 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_46",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.7348389615965585,
+      "proof": "This is a sample proof for theorem 46 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_47",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.7933433663952952,
+      "proof": "This is a sample proof for theorem 47 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_48",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.6786169329144656,
+      "proof": "This is a sample proof for theorem 48 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_49",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.5959611575607435,
+      "proof": "This is a sample proof for theorem 49 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_50",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.02872950534853347,
+      "proof": "This is a sample proof for theorem 50 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_51",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.025806995328277016,
+      "proof": "This is a sample proof for theorem 51 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_52",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.05267127465529542,
+      "proof": "This is a sample proof for theorem 52 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_53",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.6328167470196107,
+      "proof": "This is a sample proof for theorem 53 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_54",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.7427985684114858,
+      "proof": "This is a sample proof for theorem 54 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_55",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.22903352000183563,
+      "proof": "This is a sample proof for theorem 55 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_56",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.7097479841080812,
+      "proof": "This is a sample proof for theorem 56 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_57",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.9288553761521623,
+      "proof": "This is a sample proof for theorem 57 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_58",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.6145071175373412,
+      "proof": "This is a sample proof for theorem 58 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_59",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.2597961908491251,
+      "proof": "This is a sample proof for theorem 59 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_60",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.687193535794272,
+      "proof": "This is a sample proof for theorem 60 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_61",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.6401597438942986,
+      "proof": "This is a sample proof for theorem 61 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_62",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.9266337843988596,
+      "proof": "This is a sample proof for theorem 62 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_63",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.5657497413263707,
+      "proof": "This is a sample proof for theorem 63 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_64",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.477570717768821,
+      "proof": "This is a sample proof for theorem 64 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_65",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.09036279190406782,
+      "proof": "This is a sample proof for theorem 65 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_66",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.349253199377486,
+      "proof": "This is a sample proof for theorem 66 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_67",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.8630141230087878,
+      "proof": "This is a sample proof for theorem 67 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_68",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.34200804792337347,
+      "proof": "This is a sample proof for theorem 68 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_69",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.7897418127617416,
+      "proof": "This is a sample proof for theorem 69 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_70",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.9734757475053968,
+      "proof": "This is a sample proof for theorem 70 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_71",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.5751333812300663,
+      "proof": "This is a sample proof for theorem 71 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_72",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.04559158500383642,
+      "proof": "This is a sample proof for theorem 72 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_73",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.003490091762405889,
+      "proof": "This is a sample proof for theorem 73 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_74",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.04420601857674633,
+      "proof": "This is a sample proof for theorem 74 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_75",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.4183033492638686,
+      "proof": "This is a sample proof for theorem 75 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_76",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.5724789091137045,
+      "proof": "This is a sample proof for theorem 76 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_77",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.3166067035208959,
+      "proof": "This is a sample proof for theorem 77 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_78",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.14340392474320451,
+      "proof": "This is a sample proof for theorem 78 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_79",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.8840417876756658,
+      "proof": "This is a sample proof for theorem 79 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_80",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.93007549102735,
+      "proof": "This is a sample proof for theorem 80 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_81",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.37757078220147056,
+      "proof": "This is a sample proof for theorem 81 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_82",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.945270614706735,
+      "proof": "This is a sample proof for theorem 82 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_83",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.8742592403348861,
+      "proof": "This is a sample proof for theorem 83 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_84",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.5621189434616495,
+      "proof": "This is a sample proof for theorem 84 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_85",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.3154668772880823,
+      "proof": "This is a sample proof for theorem 85 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_86",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.16271526075413767,
+      "proof": "This is a sample proof for theorem 86 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_87",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.9930496622857938,
+      "proof": "This is a sample proof for theorem 87 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_88",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.7325526942033666,
+      "proof": "This is a sample proof for theorem 88 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_89",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.38548760868030196,
+      "proof": "This is a sample proof for theorem 89 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_90",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.7290629989293257,
+      "proof": "This is a sample proof for theorem 90 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_91",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.1025088954257688,
+      "proof": "This is a sample proof for theorem 91 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_92",
+      "statement": "Every compact subset of a Hausdorff space is closed",
+      "domain": "topology",
+      "difficulty": "easy",
+      "complexity_score": 0.03759494453590628,
+      "proof": "This is a sample proof for theorem 92 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_93",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.6100962184687527,
+      "proof": "This is a sample proof for theorem 93 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_94",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.09801729764439326,
+      "proof": "This is a sample proof for theorem 94 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_95",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.22623811564431617,
+      "proof": "This is a sample proof for theorem 95 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_96",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.8499475301098444,
+      "proof": "This is a sample proof for theorem 96 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_97",
+      "statement": "The continuous image of a compact set is compact",
+      "domain": "topology",
+      "difficulty": "hard",
+      "complexity_score": 0.09624538664825555,
+      "proof": "This is a sample proof for theorem 97 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_98",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.9694413537270364,
+      "proof": "This is a sample proof for theorem 98 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    },
+    {
+      "id": "topology_99",
+      "statement": "A continuous bijection from a compact space to a Hausdorff space is a homeomorphism",
+      "domain": "topology",
+      "difficulty": "medium",
+      "complexity_score": 0.8404694004603945,
+      "proof": "This is a sample proof for theorem 99 in topology.",
+      "symbols": [
+        "\u2200",
+        "\u2203",
+        "\u2208",
+        "\u2286",
+        "\u222a",
+        "\u2229"
+      ],
+      "prerequisites": []
+    }
+  ]
+}
