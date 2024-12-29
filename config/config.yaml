@@ -1,17 +1,61 @@
-# config/config.yaml
-data:
-  data_dir: "data"
-  output_dir: "output"
-  train_ratio: 0.8
-  val_ratio: 0.1
+# Configuration for the theorem proving system
 
-model:
-  hidden_size: 256
-  n_layers: 3
-  dropout: 0.1
+# Logging configuration
+level: "INFO"
+logging:
+  file: "logs/theorem_prover.log"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 
-training:
-  batch_size: 32
-  learning_rate: 0.001
-  epochs: 50
-  early_stopping_patience: 5
+# LLM configuration
+llm:
+  default_provider: "openai"  # Default provider to use
+  providers:
+    openai:
+      model_name: "gpt-4"
+      api_key: "${OPENAI_API_KEY}"
+      max_tokens: 1000
+      temperature: 0.7
+      timeout: 30  # seconds
+    anthropic:
+      model_name: "claude-3-opus-20240229"
+      api_key: "${ANTHROPIC_API_KEY}"
+      max_tokens: 1000
+      temperature: 0.7
+      timeout: 30  # seconds
+    groq:
+      model_name: "mixtral-8x7b-32768"
+      api_key: "${GROQ_API_KEY}"
+      max_tokens: 1000
+      temperature: 0.7
+      timeout: 30  # seconds
+
+# Symbolic reasoning configuration
+symbolic:
+  timeout: 10  # seconds
+  max_steps: 100
+  cache_size: 1000
+
+# Proof generation configuration
+proof_generation:
+  max_attempts: 3
+  max_refinements: 5
+  timeout: 60  # seconds
+
+# Domain-specific rules
+domains:
+  algebra:
+    - "∀x,y∈ℝ (x + y = y + x)"  # Commutativity of addition
+    - "∀x,y,z∈ℝ ((x + y) + z = x + (y + z))"  # Associativity of addition
+    - "∀x∈ℝ (x + 0 = x)"  # Identity element of addition
+  number_theory:
+    - "∀n∈ℕ (n + 1 > n)"  # Natural number ordering
+    - "∀n∈ℕ (n ≥ 0)"  # Non-negativity of natural numbers
+  topology:
+    - "A set is open if it contains a neighborhood around each of its points"
+    - "The union of any collection of open sets is open"
+
+# Cache configuration
+cache:
+  enabled: true
+  max_size: 10000
+  ttl: 3600  # seconds

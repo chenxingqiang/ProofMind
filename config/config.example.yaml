@@ -1,0 +1,79 @@
+# LLM Configuration
+llm:
+  model_name: "gpt-4"
+  api_key: "your-api-key-here"
+  temperature: 0.7
+  max_tokens: 1000
+  timeout: 30  # seconds
+  retry_attempts: 3
+  retry_delay: 1  # seconds
+
+# Symbolic Reasoning Configuration
+symbolic:
+  max_steps: 50
+  timeout: 60  # seconds
+  simplification_level: "medium"  # low, medium, high
+  domains:
+    algebra:
+      enabled: true
+      rules: ["distributive", "associative", "commutative"]
+    number_theory:
+      enabled: true
+      rules: ["divisibility", "modular_arithmetic", "prime_factorization"]
+    topology:
+      enabled: false
+      rules: []
+
+# Proof Generation Configuration
+proof_generation:
+  max_attempts: 5
+  max_refinements: 3
+  strategy_timeout: 30  # seconds
+  verification_timeout: 30  # seconds
+  min_confidence: 0.8
+  max_proof_length: 20  # steps
+
+# Logging Configuration
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  file: "logs/proofmind.log"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  max_file_size: 10485760  # 10MB
+  backup_count: 5
+
+# Cache Configuration
+cache:
+  enabled: true
+  max_size: 1000
+  ttl: 3600  # seconds
+  directory: "cache"
+
+# Domain-Specific Settings
+domains:
+  algebra:
+    axioms:
+      - "field_axioms"
+      - "ring_axioms"
+      - "group_axioms"
+    inference_rules:
+      - "substitution"
+      - "transitivity"
+      - "symmetry"
+    
+  number_theory:
+    axioms:
+      - "peano_axioms"
+      - "well_ordering"
+    inference_rules:
+      - "induction"
+      - "division_algorithm"
+      - "congruence"
+    
+  topology:
+    axioms:
+      - "open_set_axioms"
+      - "hausdorff_axioms"
+    inference_rules:
+      - "continuity"
+      - "compactness"
+      - "connectedness" 

@@ -1,0 +1,105 @@
+# Experiment Configuration
+
+# General settings
+run_ablation: true
+run_baselines: true
+
+# Model configuration
+model:
+  name: "theorem_prover"
+  model_name: "gpt2"
+  model_path: "models/theorem_prover"
+  save_dir: "models/checkpoints"
+  architecture: "transformer"
+  hidden_size: 768
+  num_layers: 12
+  num_heads: 12
+  dropout: 0.1
+  use_attention: true
+  use_reasoning: true
+  use_symbolic: true
+  max_tokens: 512
+  generation_config:
+    max_length: 512
+    num_beams: 4
+    temperature: 0.7
+    do_sample: true
+    top_p: 0.9
+    top_k: 50
+
+# Training configuration
+training:
+  batch_size: 32
+  val_batch_size: 64
+  learning_rate: 0.0001
+  num_epochs: 50
+  warmup_steps: 1000
+  gradient_clip: 1.0
+  use_wandb: true
+  seed: 42
+  save_dir: "checkpoints"
+
+# System configuration
+system:
+  num_workers: 4
+  pin_memory: true
+  cuda_visible_devices: "0"
+  deterministic: true
+  benchmark: false
+
+# Evaluation configuration
+evaluation:
+  metrics:
+    - "bleu"
+    - "rouge1"
+    - "rouge2"
+    - "rougeL"
+    - "completeness"
+    - "correctness"
+    - "efficiency"
+  generate:
+    save_results: true
+    output_dir: "results/generation"
+    max_attempts: 5
+    timeout: 60
+
+# Ablation study configuration
+ablation:
+  components:
+    - "use_attention"
+    - "use_reasoning"
+    - "use_symbolic"
+  num_runs: 3
+
+# Baseline comparison configuration
+baselines:
+  models:
+    - "theorem_prover"
+    - "seq2seq_baseline"
+    - "rule_based_baseline"
+  num_runs: 3
+  cross_validate: true
+  num_folds: 5
+
+# Data configuration
+data:
+  data_dir: "data"  # Base data directory
+  train_path: "data/train/theorems.json"
+  val_path: "data/val/theorems.json"
+  test_path: "data/test/theorems.json"
+  max_seq_length: 512
+  use_augmentation: true
+  use_filtering: true
+  preprocessing:
+    normalize_text: true
+    remove_special_chars: true
+    lowercase: false
+
+# Logging configuration
+logging:
+  save_path: "logs"
+  use_tensorboard: true
+  tensorboard_dir: "runs"
+  log_level: "INFO"
+  save_frequency: 1000
+  eval_frequency: 100 

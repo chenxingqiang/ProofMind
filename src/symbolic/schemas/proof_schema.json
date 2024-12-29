@@ -1,0 +1,109 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Formal Proof Schema",
+    "description": "Schema for formal mathematical proofs",
+    "type": "object",
+    "required": ["steps", "num_steps"],
+    "properties": {
+        "steps": {
+            "type": "array",
+            "description": "List of proof steps",
+            "minItems": 1,
+            "items": {
+                "type": "object",
+                "required": ["id", "text", "premises", "conclusion", "rule"],
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "description": "Step identifier",
+                        "minimum": 1
+                    },
+                    "text": {
+                        "type": "string",
+                        "description": "Natural language description of the step"
+                    },
+                    "premises": {
+                        "type": "array",
+                        "description": "List of premises used in the step",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "conclusion": {
+                        "type": "string",
+                        "description": "Conclusion derived in the step"
+                    },
+                    "rule": {
+                        "type": "string",
+                        "description": "Logical rule applied in the step",
+                        "enum": [
+                            "modus_ponens",
+                            "modus_tollens",
+                            "conjunction_introduction",
+                            "conjunction_elimination",
+                            "disjunction_introduction",
+                            "disjunction_elimination",
+                            "conditional_introduction",
+                            "conditional_elimination",
+                            "biconditional_introduction",
+                            "biconditional_elimination",
+                            "universal_introduction",
+                            "universal_elimination",
+                            "existential_introduction",
+                            "existential_elimination",
+                            "contradiction_introduction",
+                            "contradiction_elimination",
+                            "proof_by_cases",
+                            "proof_by_contradiction",
+                            "mathematical_induction",
+                            "strong_induction",
+                            "well_ordering_principle",
+                            "basic_deduction"
+                        ]
+                    }
+                }
+            }
+        },
+        "num_steps": {
+            "type": "integer",
+            "description": "Total number of steps in the proof",
+            "minimum": 1
+        },
+        "metadata": {
+            "type": "object",
+            "description": "Optional metadata about the proof",
+            "properties": {
+                "domain": {
+                    "type": "string",
+                    "description": "Mathematical domain of the proof",
+                    "enum": [
+                        "algebra",
+                        "analysis",
+                        "geometry",
+                        "number_theory",
+                        "topology"
+                    ]
+                },
+                "difficulty": {
+                    "type": "string",
+                    "description": "Difficulty level of the proof",
+                    "enum": ["easy", "medium", "hard"]
+                },
+                "techniques": {
+                    "type": "array",
+                    "description": "List of proof techniques used",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "dependencies": {
+                    "type": "array",
+                    "description": "List of theorems or lemmas used",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+} 

@@ -1,0 +1,88 @@
+{
+    "thm001": [
+        "Let's prove this by mathematical induction.",
+        "Base case (n=1): 1² = 1 ≥ 1 ✓",
+        "Inductive step: Assume k² ≥ k for some k ≥ 1",
+        "Consider (k+1)²:",
+        "(k+1)² = k² + 2k + 1",
+        "By inductive hypothesis, k² ≥ k",
+        "Therefore, k² + 2k + 1 > k² ≥ k",
+        "Thus, (k+1)² > k + 1",
+        "By mathematical induction, n² ≥ n for all n ∈ ℕ"
+    ],
+    
+    "thm002": [
+        "Let x and y be positive real numbers.",
+        "By definition, x > 0 and y > 0",
+        "By properties of multiplication in ℝ:",
+        "If a > 0 and b > 0, then ab > 0",
+        "Therefore, xy > 0"
+    ],
+    
+    "thm003": [
+        "Let n > 1 be a natural number.",
+        "If n is prime, then n itself is a prime factor of n.",
+        "If n is composite:",
+        "By the fundamental theorem of arithmetic,",
+        "n can be written as a product of prime numbers: n = p₁p₂...pₖ",
+        "Therefore, p₁ is a prime factor of n",
+        "Thus, every n > 1 has at least one prime factor."
+    ],
+    
+    "thm004": [
+        "Let x be a non-zero real number.",
+        "Consider y = 1/x",
+        "By properties of real numbers:",
+        "x * (1/x) = 1",
+        "Therefore, y = 1/x is the multiplicative inverse of x",
+        "Thus, for any x ≠ 0, there exists y such that xy = 1"
+    ],
+    
+    "thm005": [
+        "Let a, b, c be positive real numbers such that a² + b² = c²",
+        "Consider a triangle with sides a, b, c",
+        "By the converse of the Pythagorean theorem:",
+        "If the sides of a triangle satisfy a² + b² = c²",
+        "Then the triangle is a right triangle",
+        "Therefore, a, b, c form a right triangle"
+    ],
+    
+    "thm006": [
+        "First, prove (⟹):",
+        "Assume f is injective and surjective",
+        "By definition of bijective:",
+        "f is bijective if it is both injective and surjective",
+        "Therefore, f is bijective",
+        "",
+        "Now, prove (⟸):",
+        "Assume f is bijective",
+        "By definition of bijective:",
+        "f is both injective and surjective",
+        "Therefore, f is injective and surjective"
+    ],
+    
+    "thm007": [
+        "Let G be a group.",
+        "By group axioms, G must have an identity element e",
+        "For any x ∈ G, xe = ex = x",
+        "",
+        "To prove uniqueness:",
+        "Suppose e' is another identity element",
+        "Then e'e = e (since e' is identity)",
+        "And e'e = e' (since e is identity)",
+        "Therefore, e = e'",
+        "Thus, the identity element is unique"
+    ],
+    
+    "thm008": [
+        "Let X be a Hausdorff space and x ∈ X",
+        "To show {x} is closed, we'll prove X\\{x} is open",
+        "Let y ∈ X\\{x} (i.e., y ≠ x)",
+        "Since X is Hausdorff:",
+        "∃ open sets U, V such that x ∈ U, y ∈ V, and U ∩ V = ∅",
+        "Therefore, V ⊆ X\\{x}",
+        "Thus, every point in X\\{x} has an open neighborhood in X\\{x}",
+        "Therefore, X\\{x} is open",
+        "Hence, {x} is closed"
+    ]
+} 

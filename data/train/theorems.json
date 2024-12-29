@@ -1,0 +1,28 @@
+{
+    "theorems": [
+        {
+            "id": "thm_001",
+            "statement": "For all real numbers x and y, if x > 0 and y > 0, then xy > 0",
+            "domain": "algebra",
+            "difficulty": 2,
+            "prerequisites": ["real numbers", "multiplication"],
+            "proof": "Let x and y be positive real numbers. Since x > 0 and y > 0, by the properties of multiplication of positive numbers, their product xy > 0. [QED]"
+        },
+        {
+            "id": "thm_002",
+            "statement": "The sum of two even numbers is even",
+            "domain": "number_theory",
+            "difficulty": 1,
+            "prerequisites": ["even numbers", "addition"],
+            "proof": "Let a and b be even numbers. Then a = 2k and b = 2m where k, m are integers. Therefore, a + b = 2k + 2m = 2(k + m), which is even. [QED]"
+        },
+        {
+            "id": "thm_003",
+            "statement": "If f is continuous on [a,b] and f(a)f(b) < 0, then there exists c in (a,b) such that f(c) = 0",
+            "domain": "analysis",
+            "difficulty": 3,
+            "prerequisites": ["continuity", "intermediate value theorem"],
+            "proof": "Since f is continuous on [a,b] and f(a)f(b) < 0, either f(a) < 0 and f(b) > 0, or f(a) > 0 and f(b) < 0. By the Intermediate Value Theorem, there exists c in (a,b) such that f(c) = 0. [QED]"
+        }
+    ]
+} 

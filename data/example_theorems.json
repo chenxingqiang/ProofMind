@@ -1,0 +1,98 @@
+{
+    "thm001": {
+        "statement": "∀n∈ℕ (n² ≥ n)",
+        "domain": "number_theory",
+        "difficulty": "easy",
+        "prerequisites": [
+            "Natural numbers",
+            "Square numbers",
+            "Mathematical induction"
+        ],
+        "description": "For any natural number n, its square is greater than or equal to itself."
+    },
+    
+    "thm002": {
+        "statement": "∀x,y∈ℝ (x > 0 ∧ y > 0 ⟹ xy > 0)",
+        "domain": "algebra",
+        "difficulty": "easy",
+        "prerequisites": [
+            "Real numbers",
+            "Properties of multiplication",
+            "Properties of inequalities"
+        ],
+        "description": "The product of two positive real numbers is positive."
+    },
+    
+    "thm003": {
+        "statement": "∀n∈ℕ (n > 1 ⟹ ∃p (p|n ∧ isPrime(p)))",
+        "domain": "number_theory",
+        "difficulty": "medium",
+        "prerequisites": [
+            "Prime numbers",
+            "Divisibility",
+            "Fundamental theorem of arithmetic"
+        ],
+        "description": "Every natural number greater than 1 has at least one prime factor."
+    },
+    
+    "thm004": {
+        "statement": "∀x∈ℝ (x ≠ 0 ⟹ ∃y∈ℝ (xy = 1))",
+        "domain": "algebra",
+        "difficulty": "medium",
+        "prerequisites": [
+            "Real numbers",
+            "Multiplicative inverse",
+            "Properties of multiplication"
+        ],
+        "description": "Every non-zero real number has a multiplicative inverse."
+    },
+    
+    "thm005": {
+        "statement": "∀a,b,c∈ℝ (a² + b² = c² ∧ a > 0 ∧ b > 0 ∧ c > 0 ⟹ ∃r (r is right triangle))",
+        "domain": "geometry",
+        "difficulty": "medium",
+        "prerequisites": [
+            "Pythagorean theorem",
+            "Right triangles",
+            "Real numbers"
+        ],
+        "description": "If three positive real numbers satisfy the Pythagorean theorem, then they form the sides of a right triangle."
+    },
+    
+    "thm006": {
+        "statement": "∀f:X→Y (f injective ∧ f surjective ⟺ f bijective)",
+        "domain": "set_theory",
+        "difficulty": "hard",
+        "prerequisites": [
+            "Functions",
+            "Injective functions",
+            "Surjective functions",
+            "Bijective functions"
+        ],
+        "description": "A function is bijective if and only if it is both injective and surjective."
+    },
+    
+    "thm007": {
+        "statement": "∀G (G is group ⟹ ∃!e∈G ∀x∈G (xe = ex = x))",
+        "domain": "abstract_algebra",
+        "difficulty": "hard",
+        "prerequisites": [
+            "Group theory",
+            "Identity element",
+            "Group axioms"
+        ],
+        "description": "Every group has a unique identity element."
+    },
+    
+    "thm008": {
+        "statement": "∀X (X is topological space ∧ X is Hausdorff ⟹ ∀x∈X ({x} is closed))",
+        "domain": "topology",
+        "difficulty": "hard",
+        "prerequisites": [
+            "Topological spaces",
+            "Hausdorff spaces",
+            "Closed sets"
+        ],
+        "description": "In a Hausdorff space, every singleton set is closed."
+    }
+} 

@@ -1,0 +1,84 @@
+# Default configuration for ProofMind
+
+project:
+  name: proofmind
+  version: 0.1.0
+  description: AI-driven mathematical theorem proving system
+
+data:
+  data_dir: data
+  train_file: train.json
+  val_file: val.json
+  test_file: test.json
+  domains:
+    - algebra
+    - analysis
+    - geometry
+    - number_theory
+    - topology
+  difficulty_levels:
+    - easy
+    - medium
+    - hard
+
+model:
+  model_name: google/flan-t5-large
+  max_tokens: 512
+  save_dir: models/checkpoints
+  symbolic:
+    max_proof_steps: 50
+    min_proof_steps: 3
+    proof_schema: src/symbolic/schemas/proof_schema.json
+
+training:
+  seed: 42
+  num_epochs: 10
+  batch_size: 8
+  learning_rate: 2.0e-5
+  weight_decay: 0.01
+  warmup_steps: 500
+  max_grad_norm: 1.0
+  clip_gradients: true
+  save_every: 1
+  early_stopping:
+    patience: 3
+    min_delta: 1.0e-4
+  validation:
+    frequency: 1
+    batch_size: 16
+
+features:
+  max_statement_length: 1000
+  max_proof_length: 2000
+  use_domain_features: true
+  use_difficulty_features: true
+  use_prerequisite_features: true
+
+evaluation:
+  metrics:
+    - bleu
+    - rouge
+    - proof_correctness
+    - proof_completeness
+  batch_size: 16
+  num_beams: 4
+  temperature: 0.7
+  top_p: 0.9
+  top_k: 50
+  repetition_penalty: 1.2
+
+logging:
+  use_wandb: true
+  log_dir: logs
+  run_name: proofmind_run
+  log_level: INFO
+  log_frequency: 100
+  save_predictions: true
+  predictions_dir: predictions
+
+system:
+  num_workers: 4
+  use_cuda: true
+  cuda_device: 0
+  precision: 32
+  deterministic: true 

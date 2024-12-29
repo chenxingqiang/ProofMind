@@ -1,0 +1,20 @@
+{
+    "theorems": [
+        {
+            "id": "thm_004",
+            "statement": "The product of two negative numbers is positive",
+            "domain": "algebra",
+            "difficulty": 2,
+            "prerequisites": ["real numbers", "multiplication"],
+            "proof": "Let x and y be negative numbers. Then x < 0 and y < 0. By the properties of multiplication, when we multiply two negative numbers, the result is positive. Therefore, xy > 0. [QED]"
+        },
+        {
+            "id": "thm_005",
+            "statement": "If n is odd, then n^2 is odd",
+            "domain": "number_theory",
+            "difficulty": 2,
+            "prerequisites": ["odd numbers", "exponents"],
+            "proof": "Let n be odd. Then n = 2k + 1 for some integer k. Therefore, n^2 = (2k + 1)^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1, which is odd. [QED]"
+        }
+    ]
+} 

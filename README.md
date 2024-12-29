@@ -1,172 +1,131 @@
-# ProofMind
+# ProofMind: AI-Driven Mathematical Reasoning Framework
 
-![logo](docs/logo2.png)
-
-ProofMind is a deep learning-based automated theorem proof generator that analyzes input theorem features to generate corresponding proof steps. The project also integrates a symbolic reasoning module to support theorem verification and generation across various mathematical domains.
+ProofMind is an advanced framework that combines large language models with symbolic reasoning for automated theorem proving. The system leverages the power of GPT models for generating proof strategies while ensuring formal verification through symbolic reasoning.
 
 ## Features
 
-- **Data Download**: Automatically downloads and validates required theorem datasets.
-- **Data Processing**: Cleans, splits, and performs feature engineering on raw data.
-- **Model Training**: Trains deep learning models to generate theorem proofs.
-- **Symbolic Reasoning**: Integrates Coq and Lean reasoning engines.
-- **Visualization**: Includes visualizations such as model training history.
-
-## Prerequisites
-
-Before starting, ensure your system meets the following requirements:
-
-- **Operating System**: Any OS supporting CPU execution.
-- **Python**: Version 3.11.
-- **Dependencies**:
-
-```shell
-pip install -r requirements.txt
-```
-
-The requirements.txt file contains all necessary Python libraries for the project.
+- Hybrid approach combining LLM-based proof generation with symbolic verification
+- Natural language to formal logic translation
+- Step-by-step proof generation and verification
+- Support for various mathematical domains
+- Configurable proof generation strategies
+- Detailed logging and proof analysis
 
 ## Installation
 
-1. **Clone the repository**:
+1. Clone the repository:
 
-```shell
-git clone <https://github.com/chenxingqiang/ProofMind.git>
+```bash
+git clone https://github.com/yourusername/proofmind.git
+cd proofmind
 ```
 
-2. **Navigate to the project directory**:
+2. Create a virtual environment (recommended):
 
-```shell
-cd ProofMind
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-3. **Install dependencies**:
+3. Install dependencies:
 
-```shell
+```bash
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+```
+
+## Configuration
+
+1. Copy the example configuration file:
+
+```bash
+cp config/config.example.yaml config/config.yaml
+```
+
+2. Edit `config/config.yaml` to set your OpenAI API key and other preferences:
+
+```yaml
+llm:
+  model_name: "gpt-4"
+  api_key: "your-api-key-here"
 ```
 
 ## Usage
 
-### Full Pipeline Execution
+Basic usage:
 
-To execute the complete pipeline, including data download, processing, and model training, run:
+```python
+from src.core.theorem_prover import HybridTheoremProver
+from src.models.llm_model import GPTInterface
+from src.symbolic.reasoning_engine import SymbolicReasoner
 
-```shell
-python src/main.py --mode all --data-dir data --output-dir output
+# Initialize components
+llm = GPTInterface(model_name="gpt-4", api_key="your-api-key")
+verifier = SymbolicReasoner()
+prover = HybridTheoremProver(llm, verifier)
+
+# Prove a theorem
+theorem = "∀n∈ℕ (n² ≥ n)"
+result = prover.prove(theorem)
+
+if result["success"]:
+    print("Proof successful!")
+    for i, step in enumerate(result["proof"], 1):
+        print(f"{i}. {step}")
+else:
+    print(f"Proof failed: {result['error']}")
 ```
 
-### Specific Mode Execution
+Or use the command-line interface:
 
-Available command-line arguments:
-
-- **--mode**: Execution mode; options are all, download, process, train.
-- **--data-dir**: Directory for storing data.
-- **--output-dir**: Directory for storing output results.
-
-For example, to run only data processing and model training:
-
-```shell
-python src/main.py --mode process,train --data-dir data --output-dir output
+```bash
+python src/main.py
 ```
 
 ## Project Structure
 
 ```
-ProofMind/
-├── LICENSE
-├── README.md
-├── best_model.pt
-├── config/
-│  └── config.yaml
-├── data/
-│  ├── algebra/
-│  │  ├── algebra_theorems.json
-│  │  └── theorems.json
-│  ├── number_theory/
-│  │  ├── number_theory_theorems.json
-│  │  └── theorems.json
-│  └── topology/
-│    ├── theorems.json
-│    └── topology_theorems.json
-├── docs/
-│  ├── paper.md
-│  └── proofmind_logo.png
-├── output/
-│  ├── final_model.pt
-│  └── training_history.png
-├── proofmind.egg-info/
-├── requirements.txt
-├── setup.py
+proofmind/
 ├── src/
-│  ├── __init__.py
-│  ├── data/
-│  │  ├── __init__.py
-│  │  ├── data_downloader.py
-│  │  ├── data_loader.py
-│  │  ├── data_processor.py
-│  │  ├── download_data.py
-│  │  ├── feature_engineering.py
-│  │  ├── generate_sample_data.py
-│  │  └── validate_data.py
-│  ├── main.py
-│  ├── prepare_data.py
-│  ├── proof_generator.py
-│  ├── proof_verifier.py
-│  ├── symbolic_reasoning/
-│  │  ├── coq_integration.py
-│  │  ├── lean_integration.py
-│  │  └── symbolic_engine.py
-│  ├── theorem_generator.py
-│  ├── utils.py
-│  └── visualization.py
-├── tests/
-│  ├── test_proof_generator.py
-│  ├── test_proof_verifier.py
-│  └── test_theorem_generator.py
-└── tutorials/
-  ├── copy_of_knot_theory.ipynb
-  └── copy_of_representation_theory.ipynb
+│   ├── core/           # Core components and interfaces
+│   ├── models/         # LLM integration
+│   ├── symbolic/       # Symbolic reasoning engine
+│   └── utils/          # Utility functions
+├── tests/              # Test cases
+├── data/               # Example theorems and proofs
+├── config/             # Configuration files
+└── logs/               # Log files
 ```
 
-## Contribution
+## Testing
 
-Contributions to ProofMind are welcome. You can participate by suggesting improvements, reporting issues, or contributing code. To contribute:
+Run the test suite:
 
-1. **Fork the repository**:
+```bash
+pytest tests/
+```
 
-   Click the “Fork” button on the GitHub page to create a copy under your account.
+## Contributing
 
-2. **Create a new branch**:
-
-   ```shell
-   git checkout -b feature/YourFeatureName
-   ```
-
-3. **Commit your changes**:
-
-   ```shell
-   git commit -m 'Add some feature'
-   ```
-
-4. **Push to the branch**:
-
-   ```shell
-   git push origin feature/YourFeatureName
-   ```
-
-5. **Create a Pull Request**:
-
-   Submit your changes for review on GitHub.
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
+## Citation
 
-- **Author**: Xingqiang Chen
-- **GitHub**: [@chenxingqiang](https://github.com/chenxingqiang)
-- **Email**: <chen.xingqiang@iechor.com>
+If you use ProofMind in your research, please cite:
 
-For any questions or suggestions, feel free to contact me.
+```bibtex
+@article{proofmind2024,
+  title={ProofMind: AI-Driven Mathematical Reasoning for Automated Theorem Proving},
+  author={Your Name},
+  journal={arXiv preprint},
+  year={2024}
+}
+```

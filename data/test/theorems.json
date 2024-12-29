@@ -1,0 +1,20 @@
+{
+    "theorems": [
+        {
+            "id": "thm_006",
+            "statement": "If a divides b and b divides c, then a divides c",
+            "domain": "number_theory",
+            "difficulty": 2,
+            "prerequisites": ["divisibility", "integers"],
+            "proof": "Let a divide b and b divide c. Then there exist integers k and m such that b = ak and c = bm. Substituting the first equation into the second, we get c = (ak)m = a(km). Since km is an integer, a divides c. [QED]"
+        },
+        {
+            "id": "thm_007",
+            "statement": "Every continuous function on a closed interval [a,b] is bounded",
+            "domain": "analysis",
+            "difficulty": 3,
+            "prerequisites": ["continuity", "extreme value theorem"],
+            "proof": "Let f be continuous on [a,b]. Since [a,b] is closed and bounded (compact), by the Extreme Value Theorem, f attains its maximum and minimum values on [a,b]. Therefore, f is bounded. [QED]"
+        }
+    ]
+} 
