@@ -6,11 +6,11 @@ import yaml
 import logging
 from typing import Dict, Any
 
-from .models.llm_model import GPTInterface
-from .symbolic.reasoning_engine import SymbolicReasoner
-from .core.proof_generator import HybridProofGenerator
-from .core.theorem_prover import HybridTheoremProver
-from .data.data_loader import TheoremDataLoader
+from src.models.llm_model import GPTInterface
+from src.symbolic.reasoning_engine import SymbolicReasoner
+from src.core.proof_generator import HybridProofGenerator
+from src.core.theorem_prover import HybridTheoremProver
+from src.data.data_loader import TheoremDataLoader
 
 def load_config(config_path: str) -> Dict[str, Any]:
     """Load configuration from YAML file.
@@ -47,7 +47,7 @@ def setup_logging(config: Dict[str, Any]) -> None:
     
     # Configure logging
     logging.basicConfig(
-        level=getattr(logging, config["level"]),
+        level=getattr(logging, config['logging']["level"]),
         format=logging_config["format"],
         handlers=[
             logging.FileHandler(logging_config["file"]),

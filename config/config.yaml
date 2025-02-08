@@ -1,61 +1,79 @@
-# Configuration for the theorem proving system
-
-# Logging configuration
-level: "INFO"
-logging:
-  file: "logs/theorem_prover.log"
-  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
-
-# LLM configuration
+# LLM Configuration
 llm:
-  default_provider: "openai"  # Default provider to use
-  providers:
-    openai:
-      model_name: "gpt-4"
-      api_key: "${OPENAI_API_KEY}"
-      max_tokens: 1000
-      temperature: 0.7
-      timeout: 30  # seconds
-    anthropic:
-      model_name: "claude-3-opus-20240229"
-      api_key: "${ANTHROPIC_API_KEY}"
-      max_tokens: 1000
-      temperature: 0.7
-      timeout: 30  # seconds
-    groq:
-      model_name: "mixtral-8x7b-32768"
-      api_key: "${GROQ_API_KEY}"
-      max_tokens: 1000
-      temperature: 0.7
-      timeout: 30  # seconds
+  model_name: "deepseek-reasoner"
+  api_key: "sk-3671f0e962bf4e4980750a47c549ccd4"
+  temperature: 0.7
+  max_tokens: 1000
+  timeout: 30  # seconds
+  retry_attempts: 3
+  retry_delay: 1  # seconds
 
-# Symbolic reasoning configuration
+# Symbolic Reasoning Configuration
 symbolic:
-  timeout: 10  # seconds
-  max_steps: 100
-  cache_size: 1000
-
-# Proof generation configuration
-proof_generation:
-  max_attempts: 3
-  max_refinements: 5
+  max_steps: 50
   timeout: 60  # seconds
+  simplification_level: "medium"  # low, medium, high
+  domains:
+    algebra:
+      enabled: true
+      rules: ["distributive", "associative", "commutative"]
+    number_theory:
+      enabled: true
+      rules: ["divisibility", "modular_arithmetic", "prime_factorization"]
+    topology:
+      enabled: false
+      rules: []
 
-# Domain-specific rules
-domains:
-  algebra:
-    - "∀x,y∈ℝ (x + y = y + x)"  # Commutativity of addition
-    - "∀x,y,z∈ℝ ((x + y) + z = x + (y + z))"  # Associativity of addition
-    - "∀x∈ℝ (x + 0 = x)"  # Identity element of addition
-  number_theory:
-    - "∀n∈ℕ (n + 1 > n)"  # Natural number ordering
-    - "∀n∈ℕ (n ≥ 0)"  # Non-negativity of natural numbers
-  topology:
-    - "A set is open if it contains a neighborhood around each of its points"
-    - "The union of any collection of open sets is open"
+# Proof Generation Configuration
+proof_generation:
+  max_attempts: 5
+  max_refinements: 3
+  strategy_timeout: 30  # seconds
+  verification_timeout: 30  # seconds
+  min_confidence: 0.8
+  max_proof_length: 20  # steps
 
-# Cache configuration
+# Logging Configuration
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  file: "logs/proofmind.log"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  max_file_size: 10485760  # 10MB
+  backup_count: 5
+
+# Cache Configuration
 cache:
   enabled: true
-  max_size: 10000
+  max_size: 1000
   ttl: 3600  # seconds
+  directory: "cache"
+
+# Domain-Specific Settings
+domains:
+  algebra:
+    axioms:
+      - "field_axioms"
+      - "ring_axioms"
+      - "group_axioms"
+    inference_rules:
+      - "substitution"
+      - "transitivity"
+      - "symmetry"
+    
+  number_theory:
+    axioms:
+      - "peano_axioms"
+      - "well_ordering"
+    inference_rules:
+      - "induction"
+      - "division_algorithm"
+      - "congruence"
+    
+  topology:
+    axioms:
+      - "open_set_axioms"
+      - "hausdorff_axioms"
+    inference_rules:
+      - "continuity"
+      - "compactness"
+      - "connectedness" 
