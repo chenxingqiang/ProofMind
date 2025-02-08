@@ -1,7 +1,7 @@
 # LLM Configuration
 llm:
   model_name: "deepseek-reasoner"
-  api_key: "sk-3671f0e962bf4e4980750a47c549ccd4"
+  api_key: "sk-*****************"
   temperature: 0.7
   max_tokens: 1000
   timeout: 30  # seconds
