@@ -16,7 +16,7 @@ ProofMind is an advanced framework that combines large language models with symb
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/proofmind.git
+git clone https://github.com/chenxingqiang/proofmind.git
 cd proofmind
 ```
 
@@ -124,8 +124,8 @@ If you use ProofMind in your research, please cite:
 ```bibtex
 @article{proofmind2024,
   title={ProofMind: AI-Driven Mathematical Reasoning for Automated Theorem Proving},
-  author={Your Name},
+  author={Chen,Xingqiang},
   journal={arXiv preprint},
-  year={2024}
+  year={2025}
 }
 ```
